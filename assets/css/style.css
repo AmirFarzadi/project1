@@ -14,3 +14,10 @@
 .users-list-item.active .users-list-arrow-icon {
   transform: rotate(180deg);
 }
+
+.users-list-item.active {
+  background-color: #FAFAFA;
+}
+.users-list-item.active .collapsible-header {
+  background-color: #EEEEEE;
+}
